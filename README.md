@@ -30,7 +30,7 @@ pip install pandas matplotlib seaborn scikit-learn
 ```
 
 ## Data
-You can download the dataset from this link ([ensure to download the diabetes.csv file](https://www.kaggle.com/uciml/pima-indiansdiabetes-database)).
+You can download the dataset from this link ([ diabetes.csv file](https://www.kaggle.com/uciml/pima-indiansdiabetes-database)).
 
 ## Analysis
 Data exploration is performed through visualizing the distributions of age and BMI, as well as the relationship between glucose levels and outcomes.
