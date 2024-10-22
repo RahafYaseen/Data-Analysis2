@@ -10,7 +10,7 @@
 - [Analysis](#analysis)
 - [Model](#model)
 - [Evaluation](#evaluation)
-- [Run the Project](#run-the-project)
+
 
 ## Description
 
