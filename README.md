@@ -25,9 +25,10 @@ This project uses diabetes data to analyze the relationship between various feat
 - scikit-learn
 
 You can install the requirements using pip:
-
-
+```bash
 pip install pandas matplotlib seaborn scikit-learn
+```
+
 ## Data
 You can download the dataset from this link (ensure to download the diabetes.csv file).
 
